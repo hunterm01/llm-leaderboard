@@ -1,4 +1,5 @@
 # 🏆 LLM-Leaderboard
+## [中文](./README_CN.md) | [English](./README.md)
 
 A joint community effort to create one central leaderboard for LLMs. Contributions and corrections welcome!
 
