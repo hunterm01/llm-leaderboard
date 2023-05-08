@@ -102,3 +102,6 @@ Special thanks to the following pages:
 ## Disclaimer
 
 Above information may be wrong. If you want to use a published model for commercial use, please contact a lawyer.
+
+微信交流群，扫下面二维码
+![0b9d5a33a167542b6302bf8943e655d](https://user-images.githubusercontent.com/95675052/236915569-78b966fb-cf2c-4938-8612-09b416a0d0e3.jpg)
